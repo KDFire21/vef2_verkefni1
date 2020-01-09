@@ -8,3 +8,8 @@ mkdir - make directory
 git clone - duplicate (makes another file that looks the same)
 git status - show modified files in working directory, staged for your next commit
 git diff - diff of what is changed but not staged
+
+3.
+git log - show all commits in the current branch’s history
+git checkout - switch to another branch and check it out into your working directory
+git branch - list your branches 
