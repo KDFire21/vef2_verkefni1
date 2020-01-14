@@ -1,7 +1,7 @@
 1.
 cd - change directory
-ls - list
-pwd - password
+ls - list directory
+pwd - print working directory
 mkdir - make directory
 
 2.
@@ -31,3 +31,8 @@ að gera nein repositories eða commit o.s.frv
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?:
 
 Ábyggilega 6-7 sinnum, fer eftir því hversu mikið ég þarf að gera/svara
+
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?:
+
+Working Directory er eiginlega vinnumappa, á meðan Staging Area er skjalið tilbúið til
+notkuns
