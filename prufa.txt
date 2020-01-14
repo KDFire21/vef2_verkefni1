@@ -22,3 +22,8 @@ eintak af öllu verkefninu. Git sér um að hindra árekstra og eyðingu gagna s
 vinnslu. Mikið öryggi fellst í dreifingu verksins vegna þess að ekki er hægt að eyða
 öllum útgáfunum í einu eða öll vinnsla stöðvist vegna þess að miðlari (server) fer á
 hliðina vegna álags eða kerfishruns.
+
+5. Hverjir eru helstu kostir við að nota GIT?:
+
+Helstu kostir við að nota GIT er að þá þarf maður ekki alltaf að fara á Github til þess
+að gera nein repositories eða commit o.s.frv
