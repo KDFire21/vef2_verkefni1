@@ -27,3 +27,7 @@ hliðina vegna álags eða kerfishruns.
 
 Helstu kostir við að nota GIT er að þá þarf maður ekki alltaf að fara á Github til þess
 að gera nein repositories eða commit o.s.frv
+
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?:
+
+Ábyggilega 6-7 sinnum, fer eftir því hversu mikið ég þarf að gera/svara
